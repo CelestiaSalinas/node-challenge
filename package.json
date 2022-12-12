@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/LambdaSchool/node-db-challenge#readme",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "knex": "^0.20.15",
     "nodemon": "^2.0.3",
     "sqlite3": "^4.1.1"
